@@ -7,6 +7,8 @@ The dataset contains **20,000 records** of UPI transactions, including transacti
 
 ---
 
+## Page 1
+
 <img width="1187" height="664" alt="Screenshot 2025-10-01 195645" src="https://github.com/user-attachments/assets/cbba9851-13bd-455d-ad9a-e4828ec71040" />
 
 <img width="1181" height="657" alt="Screenshot 2025-10-01 195710" src="https://github.com/user-attachments/assets/8841ea55-2830-4b23-8ab6-fc0fdad1c002" />
@@ -17,6 +19,13 @@ The dataset contains **20,000 records** of UPI transactions, including transacti
 
 ---
 
+## Page 2
+
+<img width="1160" height="668" alt="Screenshot 2025-10-01 231649" src="https://github.com/user-attachments/assets/3a92c67b-4d12-4d38-81be-5042db4722f3" />
+
+<img width="1162" height="648" alt="Screenshot 2025-10-01 231532" src="https://github.com/user-attachments/assets/0a020812-dde6-4cbb-9f41-d5f9d8a4076d" />
+
+---
 
 ## Features
 
