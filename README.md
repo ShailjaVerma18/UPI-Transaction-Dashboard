@@ -1,4 +1,4 @@
-<img width="1181" height="657" alt="Screenshot 2025-10-01 195710" src="https://github.com/user-attachments/assets/9b724812-90be-4b29-a581-077a010b0d6e" /># UPI Transactions Power BI Project
+# UPI Transactions Power BI Project
 
 ## Project Overview
 This project demonstrates how to analyze UPI (Unified Payments Interface) transaction data using **Power BI Desktop**. The objective is to transform, profile, and visualize transactional data to generate meaningful insights regarding transaction patterns, customer demographics, and banking activity.
@@ -8,8 +8,11 @@ The dataset contains **20,000 records** of UPI transactions, including transacti
 ---
 
 <img width="1187" height="664" alt="Screenshot 2025-10-01 195645" src="https://github.com/user-attachments/assets/cbba9851-13bd-455d-ad9a-e4828ec71040" />
+
 <img width="1181" height="657" alt="Screenshot 2025-10-01 195710" src="https://github.com/user-attachments/assets/8841ea55-2830-4b23-8ab6-fc0fdad1c002" />
+
 <img width="1196" height="672" alt="Screenshot 2025-10-01 195731" src="https://github.com/user-attachments/assets/fa79d292-2566-4e04-9edf-bc12a21002a8" />
+
 <img width="1188" height="664" alt="Screenshot 2025-10-01 195817" src="https://github.com/user-attachments/assets/89658468-a1a3-42ce-bcf4-9dc3b2fc24d7" />
 
 ---
